@@ -9,7 +9,7 @@
 
 * `zdb` and `zbconsole` alias `zeus server`
 
-* `zsr` and `zerver` alias `zeus server`
+* `zs` and `zerver` alias `zeus server`
 
 * `zr` and `zake` alias `zeus rake`
 
